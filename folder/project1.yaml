@@ -1,3 +1,56 @@
+title: "Foundational Papers in Ecology"
+description: "A collection of 12 foundational papers in ecology with summaries, key takeaways, and interactive features."
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  
+paginate: 5
+
+collections:
+  papers:
+    output: true
+    permalink: /papers/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: "paper"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Create a Projects Page
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Papers"
+    url: "/papers/"
+  - title: "Projects"
+    url: "/projects/"
+
+# Define the layout for the projects index
+layouts:
+  project:
+    path: "_layouts/project.html"
+  projects:
+    path: "_layouts/projects.html"
 ---
 title: "Project Name"
 description: "Brief summary of the project."
