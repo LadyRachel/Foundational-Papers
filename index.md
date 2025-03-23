@@ -7,7 +7,7 @@ This is my custom homepage instead of the README.
 
 Explore different sections below:
 
-- [📄 About](/about.md/)
+- [📄 About](/_pages/about.md/)
 - [🚀 Projects](/projects.md/)
 - [📝 Blog](/blog/)
 - [📸 Gallery](/gallery/)
