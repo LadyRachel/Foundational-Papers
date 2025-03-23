@@ -5,3 +5,7 @@ plugins:
 
 title: [Foundational Papers]
 description: [This site is a repository of foundational papers discussed in the Winter of 2025 during the UCSC graduate Course 200D]
+
+include:
+  - _pages
+
