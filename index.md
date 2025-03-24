@@ -17,11 +17,13 @@ Explore different sections below:
 
 <div class="widget-container">
   <div class="widget">
-    <a href="/_pages/Bartholomew.md/">
-      <img src="/assets/Bartholomew.jpg/" alt="Widget Bartholomew" style="max-width: 100%; height: auto;" />
+    <a href="/_pages/Bartholomew.html">
+      <img src="/assets/Bartholomew.jpg" alt="Widget Bartholomew" style="max-width: 100%; height: auto;" />
       <p>Go to Bartholomew.jpg</p>
     </a>
   </div>
 </div>
+
+
 
 
