@@ -13,3 +13,13 @@ Explore different sections below:
 - [📸 Gallery](/gallery/)
 - [📧 Contact](/contact/)
 - [📚 Resources](/resources/)
+
+
+<div class="widget-container">
+  <div class="widget">
+    <a href="/_pages/Bartholomew.md">
+      <img src="/assets/Bartholomew.jpg" alt="Widget Bartholomew" />
+      <p>Go to Bartholomew.jpg</p>
+    </a>
+  </div>
+
