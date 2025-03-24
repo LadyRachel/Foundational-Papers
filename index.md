@@ -9,7 +9,7 @@ Explore different sections below:
 
 - [📄 About](/_pages/about.md/)
 - [🚀 Projects](/projects.md/)
-- [📝 Blog](/_pages/bartholomew.md/)
+- [📝 Blog](/_pages/bartholomew/)
 - [📸 Gallery](/gallery/)
 - [📧 Contact](/contact/)
 - [📚 Resources](/resources/)
