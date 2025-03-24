@@ -15,14 +15,20 @@ Explore different sections below:
 - [📚 Resources](/resources/)
 
 
-<div class="widget-container">
+<div class="widget-container" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="widget">
-    <a href="/Foundational-Papers/pages/bartholomew.html">
-      <img src="/Foundational-Papers/assets/Bartholomew.jpg" alt="Widget Bartholomew" style="max-width: 100%; height: auto;" />
-      <p>Go to Bartholomew.jpg</p>
+    <a href="/Foundational-Papers/pages/bartholomew.html" style="display: flex; flex-direction: row; align-items: center; text-decoration: none;">
+      <!-- Image on the left -->
+      <img src="/assets/Bartholomew.jpg" alt="Widget Bartholomew" style="max-width: 200px; height: auto; margin-right: 20px;" />
+      <!-- Text on the right -->
+      <div>
+        <p style="margin: 0;">Go to Bartholomew</p>
+        <p style="font-size: 14px; color: gray;">This is additional text below the link</p>
+      </div>
     </a>
   </div>
 </div>
+
 
 
 
