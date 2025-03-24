@@ -18,7 +18,7 @@ Explore different sections below:
 <div class="widget-container">
   <div class="widget">
     <a href="/Foundational-Papers/pages/bartholomew.html">
-      <img src="/assets/Bartholomew.jpg" alt="Widget Bartholomew" style="max-width: 100%; height: auto;" />
+      <img src="/Foundational-Papers/assets/Bartholomew.jpg" alt="Widget Bartholomew" style="max-width: 100%; height: auto;" />
       <p>Go to Bartholomew.jpg</p>
     </a>
   </div>
