@@ -15,12 +15,12 @@ Explore different sections below:
 - [📚 Resources](/resources/)
 
 
-<div class="widget-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div class="widget-container" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
   <div class="widget">
-    <a href="/Foundational-Papers/pages/bartholomew.html" style="display: flex; flex-direction: row; align-items: center; text-decoration: none;">
-      <!-- Image on the left -->
-      <img src="/assets/Bartholomew.jpg" alt="Widget Bartholomew" style="max-width: 300px; height: 200px; object-fit: cover; margin-right: 20px;" />
-      <!-- Text on the right -->
+    <a href="/Foundational-Papers/pages/bartholomew.html" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+      <!-- Image on top -->
+      <img src="/assets/Bartholomew.jpg" alt="Widget Bartholomew" style="max-width: 300px; height: 200px; object-fit: cover; margin-bottom: 10px;" />
+      <!-- Text under the image -->
       <div>
         <p style="margin: 0; font-size: 24px;">Go to Bartholomew</p>
         <!-- Additional text without link styling -->
@@ -29,6 +29,7 @@ Explore different sections below:
     </a>
   </div>
 </div>
+
 
 
 
