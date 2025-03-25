@@ -138,7 +138,7 @@ Explore different sections below:
 
 <div class="content-container" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
   <!-- Link at the top -->
-  <a href="/Foundational-Papers/pages/strategy.html" style="text-decoration: none; font-size: 24px; color: #007bff;">
+  <a href="/Foundational-Papers/pages/odum.html" style="text-decoration: none; font-size: 24px; color: #007bff;">
     The Strategy of Ecosystem Development
   </a>
   <!-- Plain text under the link -->
