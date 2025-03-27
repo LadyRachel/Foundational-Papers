@@ -5,14 +5,7 @@ title: Home
 # Welcome to My Jekyll Site
 This is my custom homepage instead of the README.
 
-Explore different sections below:
-
-- [📄 About](/_pages/about.md/)
-- [🚀 Projects](/projects.md/)
-- [📝 Blog](/pages/bartholomew.html/)
-- [📸 Gallery](/gallery/)
-- [📧 Contact](/contact/)
-- [📚 Resources](/resources/)
+Explore different Foundational Papers below:
 
 
 <div class="content-container" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
