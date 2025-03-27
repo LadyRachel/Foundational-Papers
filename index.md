@@ -2,11 +2,11 @@
 layout: default
 title: Home
 ---
-# Welcome to My Jekyll Site
-This is my custom homepage instead of the README.
+# Welcome to a collection of Foundational Ecology papers
+These were selected by a group of graduate students introducing a variety of topics in Ecology and Evolution. 
+
 
 Explore different Foundational Papers below:
-
 
 <div class="content-container" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
   <!-- Link at the top -->
