@@ -2,8 +2,8 @@
 layout: default
 title: Home
 ---
-# Welcome to a collection of Foundational Ecology papers
-These were selected by a group of graduate students introducing a variety of topics in Ecology and Evolution. 
+# Welcome to a collection of Foundational Ecology and Evolutionary Biology papers
+<h4>These were selected by a group of graduate students introducing a variety of topics in Ecology and Evolution. </h4>
 
 
 Explore different Foundational Papers below:
@@ -37,7 +37,7 @@ Explore different Foundational Papers below:
   </a>
   <!-- Plain text under the link -->
   <p style="font-size: 16px; color: black; margin-top: 10px;">
-    C. W. Dunn
+    C. W. Dunn et al.
   </p>
 </div>
 
@@ -48,7 +48,7 @@ Explore different Foundational Papers below:
   </a>
   <!-- Plain text under the link -->
   <p style="font-size: 16px; color: black; margin-top: 10px;">
-    J. A. Estes
+    J. A. Estes and J. F. Palmisano
   </p>
 </div>
 
@@ -109,12 +109,24 @@ Explore different Foundational Papers below:
 
 <div class="content-container" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
   <!-- Link at the top -->
+  <a href="/Foundational-Papers/pages/odum.html" style="text-decoration: none; font-size: 24px; color: #007bff;">
+    The Strategy of Ecosystem Development
+  </a>
+  <!-- Plain text under the link -->
+  <p style="font-size: 16px; color: black; margin-top: 10px;">
+    E. P. Odum
+  </p>
+</div>
+
+    
+<div class="content-container" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <!-- Link at the top -->
   <a href="/Foundational-Papers/pages/parmesan.html" style="text-decoration: none; font-size: 24px; color: #007bff;">
     A globally coherent fingerprint of climate change impacts across natural systems
   </a>
   <!-- Plain text under the link -->
   <p style="font-size: 16px; color: black; margin-top: 10px;">
-    C. Parmesan
+    C. Parmesan and G. Yohe
   </p>
 </div>
 
@@ -125,18 +137,11 @@ Explore different Foundational Papers below:
   </a>
   <!-- Plain text under the link -->
   <p style="font-size: 16px; color: black; margin-top: 10px;">
-    R. Quiring
+    R. Quiring et al.
   </p>
 </div>
 
-<div class="content-container" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
-  <!-- Link at the top -->
-  <a href="/Foundational-Papers/pages/odum.html" style="text-decoration: none; font-size: 24px; color: #007bff;">
-    The Strategy of Ecosystem Development
-  </a>
-  <!-- Plain text under the link -->
-  <p style="font-size: 16px; color: black; margin-top: 10px;">
-    Odum
+
   </p>
 </div>
 
